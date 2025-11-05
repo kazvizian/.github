@@ -1,9 +1,7 @@
-# Hi, It's Us – Nazator Academy!
-
-![KazVizian](https://github.com/kazvizian/.github/blob/main/images/banner.png)
-
 <h1 align="center">KazVizian</h1>
 <p align="center"><em>an open, multi-domain ecosystem of ideas — where code, art, and consciousness co-evolve.</em></p>
+
+![KazVizian](https://github.com/kazvizian/.github/blob/main/images/banner.webp)
 
 ### Welcome to the KazVizian Ecosystem
 
